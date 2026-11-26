@@ -1,5 +1,13 @@
 # @backstage/ui
 
+## 0.20.1-next.0
+
+### Patch Changes
+
+- e553e0b: Added `PreviewTrigger` for interactive popovers that open on hover, keyboard focus, or long press, with configurable opening and closing delays.
+
+  **Affected components:** Popover, PreviewTrigger
+
 ## 0.20.0
 
 ### Minor Changes

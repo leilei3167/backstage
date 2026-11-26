@@ -1,5 +1,13 @@
 # @backstage/plugin-devtools
 
+## 0.1.46-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.18.17-next.1
+  - @backstage/ui@0.20.1-next.0
+
 ## 0.1.46-next.0
 
 ### Patch Changes

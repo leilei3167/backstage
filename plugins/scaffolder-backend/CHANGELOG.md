@@ -1,5 +1,14 @@
 # @backstage/plugin-scaffolder-backend
 
+## 4.3.1-next.1
+
+### Patch Changes
+
+- bc1cc91: The `get-scaffolder-task-logs` action no longer fails its own output validation for a task that went through task recovery. The `recovered` event carries no `message`, so the field is now optional in the action's output schema.
+- Updated dependencies
+  - @backstage/plugin-scaffolder-common@2.4.1-next.1
+  - @backstage/backend-plugin-api@1.12.1-next.1
+
 ## 4.3.1-next.0
 
 ### Patch Changes
